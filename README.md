@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **Work Experience**
 - 2022 Undergraduate Researcher @ the Visual Intelligence Laboratory at the UVA School of Data Science
-- 2021 IT & Data Analaytics Intern @ The Boeing Company
+- 2021 IT & Data Analytics Intern @ The Boeing Company
 - 2020 Digital Marketing Analyst @ Ashburn Dental Care
 
 **About my Education**
